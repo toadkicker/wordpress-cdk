@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project
+# Wordpress CDK
 
-This is a blank project for CDK development with TypeScript.
+Uses AWS CDS to create a stack for Wordpress with MySQL database and load balancing. PR's welcome.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
